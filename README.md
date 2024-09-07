@@ -1,4 +1,5 @@
 # LowQualityAudio
+[![LowQualityAudio compliant](https://img.shields.io/badge/support-project-brightgreen)](https://buymeacoffee.com/lampyt)
 An audio-converting python program to convert mp3 files to earappe.
 
 ## How to use
